@@ -1,0 +1,6 @@
+../Core/Src/max30003.c:24:6:MAX30003_Init	2
+../Core/Src/max30003.c:50:6:MAX30003_Reset	1
+../Core/Src/max30003.c:60:6:MAX30003_ReadECG	1
+../Core/Src/max30003.c:70:6:MAX30003_WriteRegister	1
+../Core/Src/max30003.c:81:6:MAX30003_ReadRegister	1
+../Core/Src/max30003.c:91:13:SendAndReceive	6
