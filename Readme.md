@@ -131,7 +131,7 @@ In order to change the configuration read **MAX30003 Datasheet**.
 3. **Serial Data Handling:**
    - On Linux, monitor the serial port at `/dev/ttyACM0`.
    - Use the command: `sudo minicom -b 115200 -o -D /dev/ttyACM0` to check data output.
-
+4. In Linux environvment you can execute the python script in the folder that read data on the serial port `/dev/ttyACM0` and display data in a matplotlib window: `ECG_READ_DATA.py`.
 ---
 
 ### **References**
